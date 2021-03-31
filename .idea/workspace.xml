@@ -2,8 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84d46d07-3fb8-4cea-ab4f-ca96ffbda0d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_8/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_10/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_12/RouteInMartix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_14/RopeCutting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_16/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_17/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_17/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_19/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_20/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_21/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_24/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_31/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_32/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_32/Solution_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_33/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_34/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_35/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_36/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_37/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_38/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_41/MedianFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_41/MedianFinder2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_43/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_44/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_45/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_46/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_48/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_48/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_49/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_50/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_51/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_52/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_53/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_53/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_54/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_55/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_56/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_9/QueueToStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_9/StackToQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/SortAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/TestProxy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +92,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/JavaCode/dianshang/springboot-manage-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,28 +101,18 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
-    <configuration name="IntTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Q_7.IntTree" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Q_41" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q_50.Solution" />
       <module name="OfferPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q_7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_4.Solution" />
-      <module name="Offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q_4.*" />
+          <option name="PATTERN" value="Q_50.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,11 +121,11 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_5.Solution" />
-      <module name="Offer" />
+      <option name="MAIN_CLASS_NAME" value="Q_51.Solution" />
+      <module name="OfferPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q_5.*" />
+          <option name="PATTERN" value="Q_51.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +134,24 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_8.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Q_53.Solution" />
       <module name="OfferPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q_8.*" />
+          <option name="PATTERN" value="Q_53.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q_56.Solution" />
+      <module name="OfferPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q_56.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +160,11 @@
       </method>
     </configuration>
     <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_5.Solution2" />
-      <module name="Offer" />
+      <option name="MAIN_CLASS_NAME" value="Q_53.Solution2" />
+      <module name="OfferPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q_5.*" />
+          <option name="PATTERN" value="Q_53.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,9 +174,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.IntTree" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
       </list>
@@ -153,6 +196,48 @@
       <workItem from="1612140133921" duration="602000" />
       <workItem from="1612165493229" duration="6253000" />
       <workItem from="1612176237493" duration="2529000" />
+      <workItem from="1612228284859" duration="18000" />
+      <workItem from="1612250092761" duration="8536000" />
+      <workItem from="1612316976019" duration="13000" />
+      <workItem from="1612338457423" duration="2278000" />
+      <workItem from="1612399712887" duration="10000" />
+      <workItem from="1612520276602" duration="1196000" />
+      <workItem from="1612607114081" duration="2556000" />
+      <workItem from="1612779493673" duration="1048000" />
+      <workItem from="1612781246402" duration="1248000" />
+      <workItem from="1613727226400" duration="2709000" />
+      <workItem from="1613787584324" duration="333000" />
+      <workItem from="1613813991778" duration="3231000" />
+      <workItem from="1613875212781" duration="2000" />
+      <workItem from="1613897554602" duration="6941000" />
+      <workItem from="1614045768647" duration="12000" />
+      <workItem from="1614074082692" duration="1114000" />
+      <workItem from="1614136193791" duration="47000" />
+      <workItem from="1614605222183" duration="601000" />
+      <workItem from="1614763024548" duration="2148000" />
+      <workItem from="1615194939256" duration="4533000" />
+      <workItem from="1615271391420" duration="598000" />
+      <workItem from="1615280368025" duration="4603000" />
+      <workItem from="1615369889042" duration="596000" />
+      <workItem from="1615537659663" duration="3321000" />
+      <workItem from="1615599068040" duration="606000" />
+      <workItem from="1615619195606" duration="7924000" />
+      <workItem from="1615685084004" duration="9294000" />
+      <workItem from="1615794889076" duration="609000" />
+      <workItem from="1615808119572" duration="2107000" />
+      <workItem from="1615862527073" duration="597000" />
+      <workItem from="1615895541295" duration="3696000" />
+      <workItem from="1616070277264" duration="635000" />
+      <workItem from="1616143489193" duration="27000" />
+      <workItem from="1616410466833" duration="5220000" />
+      <workItem from="1616492179988" duration="29000" />
+      <workItem from="1616498809842" duration="6245000" />
+      <workItem from="1616575482386" duration="3056000" />
+      <workItem from="1616587219697" duration="6082000" />
+      <workItem from="1616658599205" duration="598000" />
+      <workItem from="1616744765284" duration="595000" />
+      <workItem from="1616919329440" duration="3317000" />
+      <workItem from="1617003736690" duration="8381000" />
     </task>
     <servers />
   </component>
@@ -169,50 +254,62 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="536" y="95" key="#IntTree/0.0.1920.1040@0.0.1920.1040" timestamp="1612176277531" />
-    <state x="721" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1612179072780">
+    <state x="721" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1615283350911">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="721" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612179072780" />
-    <state width="1867" height="267" key="GridCell.Tab.0.bottom" timestamp="1612179497883">
+    <state x="721" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1615283350911" />
+    <state width="483" height="582" key="DebuggerActiveHint" timestamp="1612252895856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612179497883" />
-    <state width="1867" height="267" key="GridCell.Tab.0.center" timestamp="1612179497883">
+    <state width="483" height="582" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1612252895856" />
+    <state x="690" y="220" key="FileChooserDialogImpl" timestamp="1616926408948">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612179497883" />
-    <state width="1867" height="267" key="GridCell.Tab.0.left" timestamp="1612179497883">
+    <state x="690" y="220" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616926408948" />
+    <state width="1867" height="332" key="GridCell.Tab.0.bottom" timestamp="1617014933833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612179497883" />
-    <state width="1867" height="267" key="GridCell.Tab.0.right" timestamp="1612179497883">
+    <state width="1867" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617014933833" />
+    <state width="1867" height="332" key="GridCell.Tab.0.center" timestamp="1617014933833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612179497883" />
-    <state width="1867" height="332" key="GridCell.Tab.1.bottom" timestamp="1612179271254">
+    <state width="1867" height="332" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617014933833" />
+    <state width="1867" height="332" key="GridCell.Tab.0.left" timestamp="1617014933833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612179271254" />
-    <state width="1867" height="332" key="GridCell.Tab.1.center" timestamp="1612179271254">
+    <state width="1867" height="332" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617014933833" />
+    <state width="1867" height="332" key="GridCell.Tab.0.right" timestamp="1617014933833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612179271254" />
-    <state width="1867" height="332" key="GridCell.Tab.1.left" timestamp="1612179271254">
+    <state width="1867" height="332" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617014933833" />
+    <state width="1867" height="332" key="GridCell.Tab.1.bottom" timestamp="1617014933833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612179271254" />
-    <state width="1867" height="332" key="GridCell.Tab.1.right" timestamp="1612179271254">
+    <state width="1867" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617014933833" />
+    <state width="1867" height="332" key="GridCell.Tab.1.center" timestamp="1617014933833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612179271254" />
+    <state width="1867" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617014933833" />
+    <state width="1867" height="332" key="GridCell.Tab.1.left" timestamp="1617014933833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617014933833" />
+    <state width="1867" height="332" key="GridCell.Tab.1.right" timestamp="1617014933833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617014933833" />
     <state x="330" y="75" key="SettingsEditor" timestamp="1612176252346">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="330" y="75" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612176252346" />
-    <state x="552" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1612141126612">
+    <state x="552" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1616744765883">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612141126612" />
+    <state x="552" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616744765883" />
+    <state x="161" y="201" key="new project wizard" timestamp="1616926451816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="201" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1616926451816" />
     <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1612178807734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -241,11 +338,130 @@
           <line>65</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_9/QueueToStack.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_17/Solution.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_20/Solution.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_21/Solution.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_31/Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_32/Solution_3.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_33/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_34/Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_35/Solution.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_37/Solution.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_41/MedianFinder.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_41/MedianFinder2.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_44/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_45/Solution.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_46/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_48/Solution.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_48/Solution2.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_49/Solution.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_51/Solution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_53/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_53/Solution2.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_56/Solution.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_56/Solution.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="head" />
+        <watch expression="node.next.next.next.next" />
+        <watch expression="((HashMap)nodeMap).entrySet().toArray()[0]" custom="java.util.HashMap" />
+        <watch expression="dp[0]" />
+        <watch expression="dp[1]" />
       </configuration>
     </watches-manager>
   </component>
