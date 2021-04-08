@@ -20,7 +20,7 @@ public class Test {
     }
 
     public static void main(String[] args) {
-        int i = 'b' - 'a';
-        System.out.println((char)('a' + 1));
+        int i = -1;
+        System.out.println(-i);
     }
 }

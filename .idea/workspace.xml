@@ -2,49 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84d46d07-3fb8-4cea-ab4f-ca96ffbda0d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_10/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_12/RouteInMartix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_14/RopeCutting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_16/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_17/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_17/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_19/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_20/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_21/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_24/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_31/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_32/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_32/Solution_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_33/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_34/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_35/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_36/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_37/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_38/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_41/MedianFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_41/MedianFinder2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_43/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_44/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_45/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_46/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_48/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_48/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_49/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_50/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_51/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_52/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_53/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_53/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_54/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_55/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_56/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_9/QueueToStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q_9/StackToQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/SortAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/TestProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_56/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_57/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_57/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_58/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_58/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_59/MaxQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_60/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_61/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q_62/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/ParameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/内部类/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/内部类/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,16 +75,32 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Q_58" />
+      <recent name="Q_57" />
+      <recent name="Q_56" />
       <recent name="Q_41" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_50.Solution" />
+  <component name="RunManager" selected="Application.Solution (2)">
+    <configuration name="OuterClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.内部类.OuterClass" />
       <module name="OfferPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q_50.*" />
+          <option name="PATTERN" value="test.内部类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ParameterTest" />
+      <module name="OfferPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,24 +109,11 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_51.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Q_62.Solution" />
       <module name="OfferPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q_51.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_53.Solution" />
-      <module name="OfferPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q_53.*" />
+          <option name="PATTERN" value="Q_62.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +122,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_56.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Q_61.Solution" />
       <module name="OfferPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q_56.*" />
+          <option name="PATTERN" value="Q_61.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_53.Solution2" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.内部类.Test2" />
       <module name="OfferPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q_53.*" />
+          <option name="PATTERN" value="test.内部类.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution2" />
-        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.OuterClass" />
+        <item itemvalue="Application.ParameterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -238,6 +213,9 @@
       <workItem from="1616744765284" duration="595000" />
       <workItem from="1616919329440" duration="3317000" />
       <workItem from="1617003736690" duration="8381000" />
+      <workItem from="1617610123329" duration="15913000" />
+      <workItem from="1617694030541" duration="10345000" />
+      <workItem from="1617788941933" duration="3133000" />
     </task>
     <servers />
   </component>
@@ -266,46 +244,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="220" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616926408948" />
-    <state width="1867" height="332" key="GridCell.Tab.0.bottom" timestamp="1617014933833">
+    <state width="1867" height="241" key="GridCell.Tab.0.bottom" timestamp="1617801592579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617014933833" />
-    <state width="1867" height="332" key="GridCell.Tab.0.center" timestamp="1617014933833">
+    <state width="1867" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617801592579" />
+    <state width="1867" height="241" key="GridCell.Tab.0.center" timestamp="1617801592579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617014933833" />
-    <state width="1867" height="332" key="GridCell.Tab.0.left" timestamp="1617014933833">
+    <state width="1867" height="241" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617801592579" />
+    <state width="1867" height="241" key="GridCell.Tab.0.left" timestamp="1617801592578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617014933833" />
-    <state width="1867" height="332" key="GridCell.Tab.0.right" timestamp="1617014933833">
+    <state width="1867" height="241" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617801592578" />
+    <state width="1867" height="241" key="GridCell.Tab.0.right" timestamp="1617801592579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617014933833" />
-    <state width="1867" height="332" key="GridCell.Tab.1.bottom" timestamp="1617014933833">
+    <state width="1867" height="241" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617801592579" />
+    <state width="1867" height="332" key="GridCell.Tab.1.bottom" timestamp="1617792238189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617014933833" />
-    <state width="1867" height="332" key="GridCell.Tab.1.center" timestamp="1617014933833">
+    <state width="1867" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617792238189" />
+    <state width="1867" height="332" key="GridCell.Tab.1.center" timestamp="1617792238189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617014933833" />
-    <state width="1867" height="332" key="GridCell.Tab.1.left" timestamp="1617014933833">
+    <state width="1867" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617792238189" />
+    <state width="1867" height="332" key="GridCell.Tab.1.left" timestamp="1617792238189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617014933833" />
-    <state width="1867" height="332" key="GridCell.Tab.1.right" timestamp="1617014933833">
+    <state width="1867" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617792238189" />
+    <state width="1867" height="332" key="GridCell.Tab.1.right" timestamp="1617792238189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617014933833" />
+    <state width="1867" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617792238189" />
     <state x="330" y="75" key="SettingsEditor" timestamp="1612176252346">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="330" y="75" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612176252346" />
-    <state x="552" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1616744765883">
+    <state x="552" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1617789154456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616744765883" />
+    <state x="552" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617789154456" />
     <state x="161" y="201" key="new project wizard" timestamp="1616926451816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -452,6 +430,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/Q_56/Solution.java</url>
           <line>51</line>
           <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_57/Solution.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_57/Solution2.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_61/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Q_62/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
